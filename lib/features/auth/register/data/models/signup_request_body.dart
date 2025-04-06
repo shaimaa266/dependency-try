@@ -1,5 +1,5 @@
 import 'package:json_annotation/json_annotation.dart';
-part 'sign_up_request_body.g.dart';
+part 'signup_request_body.g.dart';
 
 @JsonSerializable()
 class SignupRequestBody {
